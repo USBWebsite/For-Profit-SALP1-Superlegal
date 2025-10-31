@@ -18,7 +18,7 @@
 <footer style="text-align: center; padding: 20px; background-color: #f9f9f9;">
   <div class="badge-wrap" style="position: relative; display: inline-block; max-width: 100%;">
     <!-- Badge SVG -->
-    <img src="https://usbwebsite.github.io/For-Profit-SALP-1Law/assets/Sandbox%20Footer%20Badge.svg" alt="Utah Sandbox Badge" style="max-width: 100%; height: auto; display: block;">
+    <img src="https://usbwebsite.github.io/For-Profit-SALP1-Superlegal/assets/sandbox-footer-badge.svg" alt="Utah Sandbox Badge" style="max-width: 100%; height: auto; display: block;">
 
     <!-- Real Feedback Button overlay -->
     <a href="https://utahinnovationoffice.org/sandbox-feedback/" 
